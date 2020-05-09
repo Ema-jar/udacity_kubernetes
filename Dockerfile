@@ -7,9 +7,6 @@ WORKDIR /app
 ## Step 2:
 # Copy source code to working directory
 COPY . app.py /app/
-CMD ["mkdir", "output_txt_files"]
-CMD ["touch", "docker_out.txt"]
-CMD ["touch", "kubernetes_out.txt"]
 
 ## Step 3:
 # Install packages from requirements.txt
