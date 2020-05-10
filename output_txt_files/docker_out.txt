@@ -1,28 +1,2 @@
-<paste log output from Docker prediction, here>INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
-INFO:werkzeug: * Restarting with stat
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 161-889-271
-INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
-INFO:werkzeug: * Restarting with stat
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 161-889-271
-INFO:werkzeug:127.0.0.1 - - [09/May/2020 18:40:39] "GET / HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/emanuele/Desktop/programming/dev_ops/DevOps_Microservices/project-ml-microservice-kubernetes/app.py', reloading
-INFO:werkzeug: * Restarting with stat
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 161-889-271
-INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
-INFO:werkzeug: * Restarting with stat
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 161-889-271
+INFO:werkzeug:172.17.0.1 - - [10/May/2020 12:38:01] "POST /predict HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [09/May/2020 18:42:35] "GET / HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in '/Users/emanuele/Desktop/programming/dev_ops/DevOps_Microservices/project-ml-microservice-kubernetes/app.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:werkzeug: * Restarting with stat
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 161-889-271
-INFO:werkzeug: * Detected change in '/Users/emanuele/Desktop/programming/dev_ops/DevOps_Microservices/project-ml-microservice-kubernetes/app.py', reloading
-INFO:werkzeug: * Restarting with stat
-INFO:werkzeug: * Restarting with stat
-WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 161-889-271
