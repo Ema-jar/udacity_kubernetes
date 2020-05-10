@@ -1,8 +1,9 @@
+s git:(master) ✗ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "prod" already exists
 NAME   READY   STATUS    RESTARTS   AGE
-prod   1/1     Running   0          3m21s
+prod   1/1     Running   0          130m
 Forwarding from 127.0.0.1:8000 -> 80
 Forwarding from [::1]:8000 -> 80
-Handling connection for 8000
 Handling connection for 8000
 
 -----------------------------
